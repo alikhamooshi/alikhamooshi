@@ -16,7 +16,7 @@ I'm a passionate **IoT and Full-Stack Web Developer**, dedicated to **bridging t
 📊 Sharing knowledge on full-stack web & IoT development  
 
 ### 📫 **Let’s Connect!**  
-- 💼 LinkedIn: [https://www.linkedin.com/in/ali-khamooshi-7498972ba]
+- 💼 LinkedIn: [https://www.linkedin.com/in/ali-khamooshi]
 - 🌐 Portfolio: [Coming soon]
 - 📧 Email: [alioffy4030@yahoo.com]  
 
