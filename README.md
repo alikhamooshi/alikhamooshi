@@ -10,10 +10,7 @@ I'm a passionate **IoT and Full-Stack Web Developer**, dedicated to **bridging t
 - **Cloud & Edge Computing** – Designing cloud-based IoT ecosystems, MQTT communication, and database management for IoT applications.  
 - **AI & Automation** – Implementing AI-driven IoT analytics, automation, and predictive modeling.  
 
-### 📌 **GitHub Stats & Projects**  
-💡 Exploring innovative IoT solutions  
-🌍 Contributing to open-source projects  
-📊 Sharing knowledge on full-stack web & IoT development  
+
 
 ### 📫 **Let’s Connect!**  
 - 💼 LinkedIn: [https://www.linkedin.com/in/ali-khamooshi]
